@@ -1,6 +1,7 @@
 /*
 
     ec_lua - Ettercap LUA integration
+    
 
     Copyright (C) Mike Ryan and Ryan Linn
 
